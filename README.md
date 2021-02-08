@@ -2,6 +2,6 @@
 Projet collaboratif pour le nouveau site web du Musée National du Mali https://musee-national-mali.org/
 
 Liens
-* maliculture.ml http://www.maliculture.ml/
+* maliculture.fr http://www.maliculture.fr/
 * uncopied https://uncopied.org
 
